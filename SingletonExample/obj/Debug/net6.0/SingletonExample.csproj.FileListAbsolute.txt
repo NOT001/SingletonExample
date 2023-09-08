@@ -1,0 +1,14 @@
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\bin\Debug\net6.0\SingletonExample.exe
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\bin\Debug\net6.0\SingletonExample.deps.json
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\bin\Debug\net6.0\SingletonExample.runtimeconfig.json
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\bin\Debug\net6.0\SingletonExample.dll
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\bin\Debug\net6.0\SingletonExample.pdb
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.AssemblyInfoInputs.cache
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.AssemblyInfo.cs
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.dll
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\refint\SingletonExample.dll
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.pdb
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\SingletonExample.genruntimeconfig.cache
+C:\Users\Nguyen Ha\source\repos\SingletonExample\SingletonExample\obj\Debug\net6.0\ref\SingletonExample.dll
